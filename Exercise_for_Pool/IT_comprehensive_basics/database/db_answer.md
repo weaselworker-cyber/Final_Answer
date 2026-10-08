@@ -1,0 +1,7 @@
+![図4-1](image.png)
+![図6-5](image-1.png)
+![Sample607.sqlの結果](image-2.png)
+![図7-2](image-3.png)
+![図7-3](image-4.png)
+![図7-6](image-5.png)
+![show tables;の結果](image-6.png)
